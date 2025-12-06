@@ -28,8 +28,7 @@ It is built to demonstrate expertise in semantic HTML, modern CSS, and JavaScrip
 
 DevX Studio is designed to help businesses grow by offering a suite of digital services including Product Design, Marketing, and Web Development. The website features a "Dark Mode" aesthetic (implied by typical modern agency styles) with high-contrast elements, smooth scrolling, and testimonial carousels.
 
-**Live Demo:** [Insert Link to Live Demo Here]  
-*(e.g., https://hamayldev.github.io/DevX-Studio)*
+**Live Demo:** https://devxstudio-agency.netlify.app/
 
 ---
 
@@ -66,7 +65,8 @@ This project is built using pure frontend technologies with external libraries f
 *(Please upload screenshots of your project to an `assets` folder or an image hosting service and link them below)*
 
 ### 🖥️ Desktop View
-![Desktop Screenshot](assets/screenshot-desktop.png)
+![de](https://github.com/user-attachments/assets/6eccf88f-8198-4f0d-b02d-1fe5a06bb390)
+
 
 ### 📱 Mobile View
 ![Mobile Screenshot](assets/screenshot-mobile.png)
@@ -114,3 +114,84 @@ DevX-Studio/
 ├── main.js                 # JavaScript logic (Menu, Swiper, ScrollReveal)
 ├── index.html              # Main HTML structure
 └── README.md               # Project documentation
+```
+
+---
+
+# 🛠️ How to Run the Project Locally
+
+### 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/your-username/JBL-Responsive-Website.git
+```
+
+### 2️⃣ Navigate into the Project Folder
+
+```bash
+cd JBL-Responsive-Website
+```
+
+### 3️⃣ Open the Website
+
+You can open `index.html` directly or use Live Server:
+
+```bash
+# For VS Code
+Right click → Open With Live Server
+```
+
+---
+
+# 🌍 Deployment Options
+
+You can deploy this website easily on:
+
+* ✔️ GitHub Pages
+* ✔️ Netlify
+* ✔️ Vercel
+* ✔️ Firebase Hosting
+
+---
+
+# 🧠 What You Learn From This Project
+
+* ✔️ Real-world landing page design
+* ✔️ Animations + transitions
+* ✔️ Swiper.js integration
+* ✔️ ScrollReveal.js animations
+* ✔️ Perfect responsive layout
+* ✔️ Code structuring for large projects
+* ✔️ UI/UX product design skills
+
+---
+
+# 📈 Future Enhancements
+
+Here are potential upgrades:
+
+* 🌙 Dark/Light Mode
+* ⭐ Customer reviews section
+* 💬 Chatbot assistant
+* 📊 Product comparison table
+
+---
+
+# 🧑‍💻 Author
+
+**👨‍💻 Hamayl Shah**
+Front-End Developer | Software Engineer
+🚀 Passionate about clean UI, animations & modern web experiences
+
+---
+
+# ⭐ Support the Project
+
+If you found this helpful:
+
+* ⭐ Star the Repo
+* 🍴 Fork it
+* 🔄 Share it
+* 🧑‍💻 Use it for your portfolio
+
+It helps me grow and motivates me to create more beautiful front-end projects! ❤️
